@@ -1,0 +1,4 @@
+I am working  in implementing the APIM in my dotnet and angular applicaiton. I have created an OpenAPI for Web App in which I have my dotnet code is deployed and calling them from Angular UI. Suppose, If I want to make changes in dotnet code( like adding or deleting an API), then I need to update the APIM manually with the swagger file. I need this process to be automated with CI/CD Pipeline whenever I deploy the local code into Web app. 
+ 
+How to achieve this scenatrio? Give me the brief and clear steps.
+ 
